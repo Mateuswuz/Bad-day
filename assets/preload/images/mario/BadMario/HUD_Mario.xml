@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HUD_Mario.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="fall0000" x="16" y="0" width="16" height="29" frameX="-16" frameY="-8" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="flash0000" x="47" y="31" width="15" height="17" frameX="0" frameY="0" frameWidth="15" frameHeight="17"/>
+	<SubTexture name="flash0001" x="32" y="31" width="15" height="17" frameX="0" frameY="0" frameWidth="15" frameHeight="17"/>
+	<SubTexture name="flash0002" x="32" y="48" width="4" height="4" frameX="0" frameY="0" frameWidth="15" frameHeight="17"/>
+	<SubTexture name="jump0000" x="0" y="0" width="16" height="31" frameX="-16" frameY="-8" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="mario spin jump0000" x="64" y="28" width="15" height="28" frameX="-16" frameY="-11" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="mario spin jump0001" x="32" y="0" width="16" height="28" frameX="-16" frameY="-11" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="mario spin jump0002" x="64" y="0" width="15" height="28" frameX="-17" frameY="-11" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="mario spin jump0003" x="48" y="0" width="16" height="28" frameX="-16" frameY="-11" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="mario walk0000" x="64" y="28" width="15" height="28" frameX="-16" frameY="-11" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="mario walk0001" x="0" y="31" width="16" height="28" frameX="-16" frameY="-11" frameWidth="48" frameHeight="48"/>
+	<SubTexture name="mario walk0002" x="16" y="31" width="16" height="27" frameX="-16" frameY="-11" frameWidth="48" frameHeight="48"/>
+</TextureAtlas>
