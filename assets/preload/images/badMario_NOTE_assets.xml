@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="badMario_NOTE_assets.png">
+	<SubTexture name="blue0000" x="0" y="0" width="132" height="132" frameX="-6" frameY="-1" frameWidth="145" frameHeight="136"/>
+	<SubTexture name="green0000" x="0" y="0" width="132" height="132" frameX="-6" frameY="-1" frameWidth="145" frameHeight="136"/>
+	<SubTexture name="purple0000" x="0" y="0" width="132" height="132" frameX="-6" frameY="-1" frameWidth="145" frameHeight="136"/>
+	<SubTexture name="red0000" x="0" y="0" width="132" height="132" frameX="-6" frameY="-1" frameWidth="145" frameHeight="136"/>
+</TextureAtlas>
